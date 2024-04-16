@@ -2,6 +2,10 @@
 This project is a simple if not boring simulation of the solar system. It will show you what the solar system may look like and how beautiful it is in space. 
 You can have a closer look at a planet by clicking on it. 
 
+## Demo
+![Main](video/ezgif.com-video-to-gif-converter.gif)
+
+![alt text](https://github.com/jameshnl232/SolarSystem/blob/main/solarsystem.PNG)  
 
 ## Installation
 
@@ -49,10 +53,6 @@ Well, at least I got everything appear on the screen. Yayyy :D
 
 - [@jameshnl232](https://github.com/jameshnl232/)
 
-
-## Demo
-A gif would be too heavy, here's a screenshot
-![alt text](https://github.com/jameshnl232/SolarSystem/blob/main/solarsystem.PNG)
 
 ## License
 
